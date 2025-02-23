@@ -13,7 +13,7 @@ secret-toolkit = { git = "https://github.com/scrtlabs/secret-toolkit", tag = "v0
   "storage",
   "viewing-key",
   "crypto",
-  "utils",
+  "utils"
 ] }
 schemars = { version = "0.8.11" }
 serde = { version = "1.0" }
